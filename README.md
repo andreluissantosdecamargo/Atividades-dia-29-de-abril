@@ -9,7 +9,7 @@ do, seu cubo e sua raiz quadrada. Finalize a entrada de dados com um valor negat
 
 ## 1. SegExercicio 
 
-Faça um programa que receba várias idades, calcule e mostre a média das idades digitadas. Finalize digitando idade igual a zero. 
+1. Faça um programa que receba várias idades, calcule e mostre a média das idades digitadas. Finalize digitando idade igual a zero. 
 
 ## Autor
 
