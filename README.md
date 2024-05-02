@@ -1,17 +1,17 @@
-# Exercícios de Java - Introdução a Vetores
+# Exercícios de Java 
 
-Neste repositório, você encontrará uma série de exercícios resolvidos em Java, focados na manipulação de vetores realizados em sala dia 02 de maio.
+Neste repositório, você encontrará uma série de exercícios resolvidos em Java.
 
-## Algoritmo 1: Números Primos
-
-### Objetivo:
-Este algoritmo tem como objetivo preencher um vetor com nove números inteiros, calcular e mostrar os números primos e suas respectivas posições. 🔢🔍
-
-## Algoritmo 2: Intercalação de Vetores
+## Algoritmo 1: Preço de Carro e Parcelamento
 
 ### Objetivo:
-Este algoritmo preenche dois vetores com dez números inteiros cada e, em seguida, intercala os elementos desses vetores em um terceiro vetor. 🔄
+Este algoritmo tem como objetivo calcular o preço final de um carro à vista com desconto e exibir uma tabela com opções de parcelamento.
+
+## Algoritmo 2: Média de Idades
+
+### Objetivo:
+Este algoritmo recebe várias idades, calcula e mostra a média das idades digitadas. Ele finaliza quando a idade digitada é igual a zero.
 
 ## Autor
 
-Este programa foi desenvolvido por @andree.zxs ou André Luís, aluno do 3° ano do curso Técnico em Desenvolvimento de Sistemas (TDS), Turma A. 👨‍💻
+Estes programas foram desenvolvidos por @andree.zxs ou André Luís, aluno do 3° ano do curso Técnico em Desenvolvimento de Sistemas (TDS), Turma A. 👨‍💻
