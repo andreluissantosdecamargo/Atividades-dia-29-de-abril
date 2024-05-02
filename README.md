@@ -1,19 +1,17 @@
-# SegExercicio e Cap 05. Ex 11
+# Exercícios de Java - Introdução a Vetores
 
-Este projeto foi desenvolvido como uma atividade.
+Neste repositório, você encontrará uma série de exercícios resolvidos em Java, focados na manipulação de vetores realizados em sala dia 02 de maio.
 
-## 1. SegExercicio 
+## Algoritmo 1: Números Primos
 
-1. Faça um programa que receba várias idades, calcule e mostre a média das idades digitadas. Finalize digitando idade igual a zero. 
+### Objetivo:
+Este algoritmo tem como objetivo preencher um vetor com nove números inteiros, calcular e mostrar os números primos e suas respectivas posições. 🔢🔍
 
-## Cap 05. Ex 11
-11. Faça um programa que receba o valor de um carro e mostre uma tabela com os seguintes dados: preço
-final, quantidade de parcelas e valor da parcela. Considere o seguinte:
- - o preço final para compra à vista tem desconto de 20%;
- - a quantidade de parcelas pode ser: 6, 12, 18, 24, 30, 36, 42, 48, 54 e 60; e
- - os percentuais de acréscimo encontram-se na tabela a seguir.
+## Algoritmo 2: Intercalação de Vetores
+
+### Objetivo:
+Este algoritmo preenche dois vetores com dez números inteiros cada e, em seguida, intercala os elementos desses vetores em um terceiro vetor. 🔄
 
 ## Autor
 
-Este programa foi desenvolvido por @andree.zxs ou André Luís, aluno do 3° ano do curso Técnico em Desenvolvimento de Sistemas (TDS), Turma A.
-
+Este programa foi desenvolvido por @andree.zxs ou André Luís, aluno do 3° ano do curso Técnico em Desenvolvimento de Sistemas (TDS), Turma A. 👨‍💻
